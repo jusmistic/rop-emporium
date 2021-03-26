@@ -1,0 +1,4 @@
+break *0x08048517
+break *pwnme+273
+break *0x0804839d
+

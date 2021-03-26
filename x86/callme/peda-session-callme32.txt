@@ -1,0 +1,6 @@
+break * pwnme
+break *pwnme
+break *0x0804874e
+break *0xffe26818
+break *0x80487f9
+
